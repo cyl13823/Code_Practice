@@ -47,7 +47,7 @@ class Node:
         self.data = data
         self.next = None
 
-class CircularQueue:
+class CircularQueue_v2:
     def __init__(self):
         self.front = None
         self.rear = None
