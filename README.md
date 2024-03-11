@@ -1,5 +1,5 @@
 # Coding_Practice
- The diary of coding:
+ The journey of coding:
  
  A. Python
 
