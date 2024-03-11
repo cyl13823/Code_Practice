@@ -1,2 +1,2 @@
 # Code_Practice
- The journal of coding
+ The diary of coding
