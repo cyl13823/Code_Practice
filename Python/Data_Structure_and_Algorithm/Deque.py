@@ -36,7 +36,7 @@ class Node:
         self.prev = None
         self.next = None
 
-class Deque:
+class Deque_v2:
     def __init__(self):
         self.front = None
         self.rear = None

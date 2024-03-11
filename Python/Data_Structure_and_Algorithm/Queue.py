@@ -1,5 +1,5 @@
 # Queue_v1_using append
-class Queue:
+class Queue_v1:
     def __init__(self):
         self.queue = []
     
@@ -20,7 +20,7 @@ class Queue:
         return len(self.queue)
 
 # Queue_v2_using insert
-class Queue:
+class Queue_v2:
     def __init__(self):
         self.queue = []
     
@@ -46,7 +46,7 @@ class Node:
         self.data = data
         self.next = None
 
-class Queue:
+class Queue_v3:
     def __init__(self):
         self.front = None
         self.rear = None
