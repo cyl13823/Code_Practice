@@ -1,4 +1,4 @@
-# Code_Practice
+# Coding_Practice
  The diary of coding:
  
  A. Python
