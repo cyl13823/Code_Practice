@@ -6,15 +6,17 @@
             "type": "shell",
             "command": "gcc",
             "args": [
-                "-Wall",
-                "-I/opt/homebrew/opt/gsl/include",
-                "-L/opt/homebrew/opt/gsl/lib",
+                "-fcolor-diagnostics",
+                "-fansi-escape-codes",
+                "-g",
                 "${file}",
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}",
+                "-I/opt/homebrew/include",
+                "-L/opt/homebrew/lib",
                 "-lgsl",
                 "-lgslcblas",
-                "-lm",
-                "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
+                "-lm"
             ],
             "group": {
                 "kind": "build",
