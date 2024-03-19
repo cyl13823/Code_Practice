@@ -4,9 +4,7 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/opt/homebrew/Cellar/gsl/2.7.1/include/gsl/**",
-                "/Users/lee/Documents/External_library/**",
-                "/opt/homebrew/Cellar/gsl/2.7.1/include"
+                "/opt/homebrew/Cellar/gsl/2.7.1/include/gsl"
             ],
             "defines": [],
             "macFrameworkPath": [
