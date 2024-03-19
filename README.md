@@ -21,11 +21,11 @@
 
 3. LeetCode
 
-   3-1. Easy: [[1]]
+   3-1. Easy: 1
    
-   3-2. Medium: [[3]]
+   3-2. Medium: 3
 
-   3-3. Hard: [[0]]
+   3-3. Hard: 0
 
  B. C/C++
 
