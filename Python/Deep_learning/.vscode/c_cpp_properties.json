@@ -4,7 +4,7 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/opt/homebrew/Cellar/gsl/2.7.1/include/gsl"
+                "/opt/homebrew/Cellar/gsl/2.7.1/include/"
             ],
             "defines": [],
             "macFrameworkPath": [
