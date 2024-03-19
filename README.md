@@ -19,6 +19,14 @@
 
     2-3. Multi-class Classification
 
+3. LeetCode
+
+   3-1. Easy: [[1]]
+   
+   3-2. Medium: [[3]]
+
+   3-3. Hard: [[0]]
+
  B. C/C++
 
  1. Sort
