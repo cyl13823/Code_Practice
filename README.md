@@ -21,7 +21,7 @@
 
 3. LeetCode
 
-   3-1. Easy: 1
+   3-1. Easy: 14
    
    3-2. Medium: 3
 
