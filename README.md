@@ -3,15 +3,15 @@
  
  A. Python
 
- 1. Data structure and algorithm
+ 1. [Data structure and algorithm](https://github.com/cyl13823/Coding_Practice/tree/main/Python/Data_Structure_and_Algorithm)
 
-    1-1. Linear Data Structures
+    1-1. [Linear Data Structures](https://github.com/cyl13823/Coding_Practice/tree/main/Python/Data_Structure_and_Algorithm/Linear_Data_Structures)
    
-    1-2. Sort
+    1-2. [Sort](https://github.com/cyl13823/Coding_Practice/tree/main/Python/Data_Structure_and_Algorithm/Sort)
    
-    1-3. Search
+    1-3. [Search](https://github.com/cyl13823/Coding_Practice/tree/main/Python/Data_Structure_and_Algorithm/Search)
    
- 2. Deep learning
+ 2. [Deep learning](https://github.com/cyl13823/Coding_Practice/tree/main/Python/Deep_learning)
 
     2-1. Linear Regression
    
@@ -19,7 +19,7 @@
 
     2-3. Multi-class Classification
 
-3. LeetCode
+3. [LeetCode](https://github.com/cyl13823/Coding_Practice/tree/main/Python/Leetcode)
 
    3-1. Easy: 14
    
