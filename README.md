@@ -5,7 +5,7 @@
 
  1. Data structure and algorithm
 
-    1-1. Stack, Queue, Deque
+    1-1. Linear Data Structures
    
     1-2. Sort
    
@@ -29,7 +29,13 @@
 
  B. C/C++
 
- 1. Sort
+ 1. [Data structure and algorithm](https://github.com/cyl13823/Coding_Practice/tree/main/C%3AC%2B%2B/Data_Structure_and_Algorithm)
+
+    1-1. [Linear Data Structures](https://github.com/cyl13823/Coding_Practice/tree/main/C%3AC%2B%2B/Data_Structure_and_Algorithm/Linear_Data_Structures)
+   
+    1-2. [Sort](https://github.com/cyl13823/Coding_Practice/tree/main/C%3AC%2B%2B/Data_Structure_and_Algorithm/Sort)
+   
+    1-3. [Search](https://github.com/cyl13823/Coding_Practice/tree/main/C%3AC%2B%2B/Data_Structure_and_Algorithm/Search)
 
 The following link is my note, which is still being organized.
 
