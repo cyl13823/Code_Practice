@@ -41,5 +41,7 @@ The following link is my note, which is still being organized.
 
 [Python Note](https://colab.research.google.com/drive/10eoNn7ur0mWtWlGCz_bKSww05FfTMlhq?usp=drive_link)
 
+[C_Note](https://colab.research.google.com/drive/1JGTCEeH_0T4yxvLPAmMetAfOklf5BPKQ?authuser=2#scrollTo=8nVId-7kNI1N)
+
 
 **** continually update ****
